@@ -1,0 +1,103 @@
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media only screen and (max-width: 992px) {
+
+    .contact-style {
+        background-color: #CC3A37 !important;
+        width: 413px !important;
+        border-radius: 10px 40px 40px 10px !important;
+        height: 56px !important;
+        margin-left: 0px
+    }
+
+    .experience-heading {
+
+        padding: 4.6rem 0rem 0rem 2rem !important;
+    }
+
+    .education-heading {
+
+        padding: 9.5rem 0rem 0rem 2rem !important;
+    }
+
+    .date-text {
+        margin-top: 2.1rem;
+    }
+
+    .last-contact-margin {
+        margin-top: 14rem;
+    }
+
+    .border-div {
+        width: auto !important;
+    }
+
+    .gap-between {
+        gap: 76px;
+    }
+
+    .qr {
+        font-size: 44px;
+
+    }
+
+    .qr-top-margin {
+        margin-top: 77px;
+    }
+
+    .container {
+        width: 826px !important;
+    }
+
+}
+
+/* On screens that are 992px wide or less, go from four columns to two columns */
+@media only screen and (max-width: 1551px) {
+
+    .container {
+        max-width: 1165px !important;
+    }
+
+    .contact-style {
+        background-color: #CC3A37 !important;
+        width: 413px !important;
+        border-radius: 10px 40px 40px 10px !important;
+        height: 56px !important;
+        margin-left: 0px
+    }
+
+    .experience-heading {
+
+        padding: 4.6rem 0rem 0rem 2rem !important;
+    }
+
+    .education-heading {
+
+        padding: 9.5rem 0rem 0rem 2rem !important;
+    }
+
+    .date-text {
+        margin-top: 2.1rem;
+    }
+
+    .last-contact-margin {
+        margin-top: 14rem;
+    }
+
+    .border-div {
+        width: auto !important;
+    }
+
+    .gap-between {
+        gap: 76px;
+    }
+
+    .qr {
+        font-size: 44px;
+
+    }
+
+    .qr-top-margin {
+        margin-top: 77px;
+    }
+
+}

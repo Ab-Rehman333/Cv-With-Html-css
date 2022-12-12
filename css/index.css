@@ -1,0 +1,235 @@
+* {
+
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    background-color: #242222;
+    overflow-x: hidden;
+   
+}
+
+.icon-style {
+    color: white;
+    background: #CC3A37;
+    width: 28px;
+    height: 26px;
+    border-radius: 13px;
+    padding: 5px;
+   
+}
+
+.graphic-desginer-heading {
+    display: flex;
+    gap: 0.4rem;
+    padding: 2rem;
+    color: white;
+
+}
+
+.border-div {
+    background-color: white;
+    width: 382px;
+    border-left: 15px solid #CC3A37;
+    border-bottom: 15px solid #CC3A37;
+    border-radius: 15px solid #CC3A37;
+    border-right: 15px solid #CC3A37;
+    padding: 50px;
+    border-radius: 0% 0% 51% 50%;
+    height: 414px;
+    
+}
+
+.padding-left-align{
+    padding: 0rem 0rem 0rem 2rem;
+    
+}
+
+.top-heading1{
+    color: #CC3A37;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin-bottom: 0rem;
+
+}
+.top-heading2{
+    color:white;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+.para{
+    color: white;
+    text-align: justify;
+    width: 80%;
+
+}
+.border-style{
+   
+    border: 4px #CC3A37 solid;
+    border-radius: 6px;
+    width: 100px;
+    margin-top: 1rem;
+
+}
+
+.education-heading{
+    display: flex;
+    gap: 0.4rem;
+    color: white;
+    letter-spacing: 2px;
+    align-items: center;
+    padding: 8.5rem 0rem 0rem 2rem;
+}
+
+.experience-heading{
+    display: flex;
+    gap: 0.4rem;
+    color: white;
+    letter-spacing: 2px;
+    align-items: center;
+    padding: 3.5rem 0rem 0rem 2rem;
+}
+
+.contact-icon{
+    background: white;
+    border-radius: 17px;
+    /* width: 17px; */
+    padding: 7px;
+    margin-left: 6px;
+    margin-top: 13px;
+    color: #CC3A37; 
+
+}
+.contact-style {
+    background-color: #CC3A37;
+    width: 661px;
+    border-radius: 10px 40px 40px 10px;
+    height: 56px;
+    margin-left: -89px;
+}
+
+.font-icon{
+    font-weight: bold;
+    margin: 11px;
+}
+
+.qr{
+    font-size: 55px;
+    color: white;
+    background: #CC3A37;
+    padding: 26px;
+    border-radius: 6px;
+    margin-left: 32px;
+} 
+
+.qr-style{
+    
+    color: white;
+    background: #CC3A37;
+    padding: 7px;
+    border-radius: 15px;
+  
+    
+}
+.qr-text{
+    font-size:33px;
+    font-weight: bold;
+    color:white;
+}
+
+.to-icon{
+    color: white;
+    border-radius: 17px;
+    /* width: 17px; */
+    padding: 7px;
+    margin-left: 6px;
+    margin-top: 3px;
+    background-color: #CC3A37;
+}
+
+/* .qr-li-margin{
+    margin-left: 37px;
+} */
+.gap-between{
+    gap: 50px;
+}
+
+.li-text-style{
+    margin-left: 16px;
+}
+
+.ul-margin{
+    margin-top: 13px;
+}
+
+.to-text{
+    
+    font-size: 27px;
+    font-weight: bold;
+    margin: 17px;
+
+
+}
+
+.to-below-heading{
+    margin: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.to-below-p{
+    margin: 8px;
+    color: white;
+    /* font-weight: bold; */
+    /* font-size: 18px; */
+    color: #ada7a7;
+}
+
+.date-text{
+    color: white;
+    margin-top: 66px;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+}
+
+.last-para1{
+    color: white;
+    text-align: justify;
+    width: 80%;
+    margin: 0rem 0rem 0rem 2rem
+}
+
+.last-para2{
+    color: white;
+    text-align: justify;
+    width: 80%;
+    margin: 2rem 0rem 0rem 2rem
+}
+
+.last-contact-margin{
+    margin-top: 175px;
+}
+
+.sincerely-text{
+    margin-top: 38px;
+    font-size: 18px;
+    margin-left: 32px;
+    color: #ada7a7;
+
+}
+
+.last-name-text{
+    margin-left: 32px;
+    margin-top: 14px;
+   color: white;
+}
+
+.last-p{
+    margin-left: 32px;
+    margin-top: 5px;
+    color: #ada7a7;
+}
+
